@@ -12,7 +12,7 @@
 
 
 .hero h1 {
-    font-size: 90px;
+    font-size: 75px;
     color: #babbf1;
     margin-bottom: 0;
     margin-top: 0;
@@ -21,7 +21,7 @@
 
 .hero h2 {
     margin: 0;
-    font-size: 40px;
+    font-size: 35px;
     color: #81c8be;
 }
 .hero ul {
@@ -36,7 +36,7 @@
 
 .hero ul li {
     display: inline-block;
-    padding: 15px 100px 0 0;
+    padding: 15px 75px 0 0;
 }
 
 a {
