@@ -1,0 +1,27 @@
+* {
+    font-family: 'IBM Plex Mono', monospace;
+    background-color: #2F3447;
+
+}
+
+.hero {
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+
+
+}
+
+.hero h1 {
+    font-size: 100px;
+    color: #babbf1;
+    margin-bottom: 0;
+}
+
+.hero h2 {
+    margin-top: 0;
+    padding-left: 150px;
+    font-size: 30px;
+    color: #81c8be;
+}
