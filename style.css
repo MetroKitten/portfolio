@@ -3,6 +3,7 @@
     background-color: #2F3447;
 }
 nav {
+    position: sticky;
     padding-top: 0px;
     padding-left: 0px;
     padding-bottom: 0;
@@ -33,6 +34,10 @@ nav ul li a {
     position: absolute;
     top: 40%;
     bottom: 50%;
+}
+#local {
+    font-size: 30px;
+    color: #f4b8e4;
 }
 
 .hero h1 {
