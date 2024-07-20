@@ -69,6 +69,7 @@ nav ul li a {
 }
 .cursor {
     font-size: 40px;
+    font-weight: strong;
     animation: blink 1s infinite;
 }
 @keyframes blink {
