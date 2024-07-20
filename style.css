@@ -35,16 +35,14 @@ nav ul li a {
     top: 40%;
     bottom: 50%;
 }
-#local {
-    font-size: 30px;
-    color: #f4b8e4;
-}
+
 
 .hero h1 {
     font-size: 90px;
     color: #babbf1;
     margin-bottom: 0;
     margin-top: 0;
+    padding-top: 10px;
 }
 
 .hero h2 {
