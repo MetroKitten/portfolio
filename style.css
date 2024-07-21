@@ -36,6 +36,7 @@
 
 .hero i {
     padding-right: 10px;
+    font-size: 35px;
 }
 
 .hero h1 {
@@ -113,17 +114,21 @@ a:visited {
 }
 
 @media (max-width: 1000px) {
+    .lang li {
+        padding-right: 35px;
+    }
     .hero li {
-        padding-top: 30px
+        padding-top: 30px;
+
     }
 
     .hero h1 {
-        font-size: 35px;
+        font-size: 42px;
         padding-top: 20px;
         padding-bottom: 10px;
     }
 
     .hero h2 {
-        font-size: 30px;
+        font-size: 32px;
     }
 }
